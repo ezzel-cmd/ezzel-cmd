@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @ezzel-cmd
-- 👀 I’m interested in developing, art, music
-- 🌱 I’m currently learning Software development
-- 💞️ I’m looking to collaborate on any project that will have impact on me or the community
-- 😄 Pronouns: 
-- ⚡ Fun fact: -- My future is at stake
+# Hi, I'm Ezekiel 👋
 
-<!---
-ezzel-cmd/ezzel-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Aspiring Full-Stack Developer | Problem Solver  
+
+I enjoy building clean and scalable solutions through code. Currently focusing on **web and mobile app devlopment **, while working on projects that sharpen both my frontend and backend skills.  
+
+---
+
+### ⚡ Tech Stack
+- Languages: PHP, JavaScript, C++, HTML, CSS  
+- Tools: Git, TailwindCSS, React.
+
+---
+
+⭐ "Code should be simple, efficient, and impactful."
